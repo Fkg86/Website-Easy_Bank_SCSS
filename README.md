@@ -14,4 +14,4 @@ A bank website project was developed.
 
 ## GIF
 
-![](HTML_CSS_Amazon_Clone.gif)
+![](Easy_Bank.gif)
